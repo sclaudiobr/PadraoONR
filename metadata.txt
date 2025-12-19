@@ -1,0 +1,17 @@
+[general]
+name=PadraoONR
+qgisMinimumVersion=3.0
+description=Ferramenta para padronização de campos ONR
+version=1.0
+author=ClaudioSilva
+email=sclaudio@setageo.com.br
+
+about=Padroniza campos de shapefiles no padrão ONR
+category=Vector
+tags=ONR,campos,cadastro,padronização
+icon=icon.png
+experimental=False
+deprecated=False
+
+[changelog]
+1.0=Versão inicial do plugin PadraoONR
