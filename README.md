@@ -1,1 +1,1 @@
-Complemento QGIS para inserção de camos segundo a ONR SGI
+Complemento QGIS para inserção de campos segundo a ONR SGI
