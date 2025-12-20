@@ -1,7 +1,7 @@
 ## PadraoONR
 [![N|Solid](https://github.com/sclaudiobr/PadraoONR/blob/main/icon.png)](https://github.com/sclaudiobr/PadraoONR)
 
-### _Complemento QGIS para Geração Automática de Atributos em Shapefile_
+### _Plugin QGIS para padronização Automática de Atributos ONR RGI DIGITAL_
 #### Esta aplicação gera automaticamente campos de atributos da tabela em um shapefile, facilitando o preenchimento correto dos dados exigidos pelo sistema de Registro Digital de Imóveis - RGI Digital
 # 1 - Instalação Manual
 #### a) Faça o download do pacote
