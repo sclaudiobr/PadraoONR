@@ -38,5 +38,6 @@
 |DAT_FIM|Numérico|DD/MM/AAAA|Data de término da relação jurídica|02/06/2025|
 |PER_REL|Numérico|6,2 (6 dígitos, 2 decimais)|Percentual da relação jurídica|33.33|
 
+###  _Desenvolvido por:_ Claudio Silva - https://www.linkedin.com/in/claudio-roberto-oliveira-da-silva-6b395469/
 #### _Fonte_: Manauais de Uso 
 https://mapa.onr.org.br/sigri/manual/manual-geracao-automatica-atributos-shapefile-script-python
